@@ -1,4 +1,4 @@
-# Mohammed Sharaf
+# Mohammed Sharrif
 **Senior Full-Stack Software Engineer**
 
 I'm a senior full-stack engineer focused on building scalable backends and reliable infrastructure. I care about writing maintainable code, designing clean API architectures, and shipping products that perform well under pressure without slowing down the development cycle.
